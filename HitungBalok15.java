@@ -20,8 +20,6 @@ public static void main(String[] args) {
     System.out.println("Volume balok adalah " +vol);
 
     input.close();
-    hitungLuas(p, L);
-    hitungVolume(t, L, vol);
 }    
 
 static int hitungLuas(int pjg, int lb){
