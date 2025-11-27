@@ -1,9 +1,7 @@
 public class PengunjungCafe15 {
 
     public static void main(String[] args) {
-        daftarPengunjung15("Ali","Budi","Citra");
-        daftarPengunjung15("Andi");
-        daftarPengunjung15("Doni","Eti","Fahmi","Galih");
+        daftarPengunjung15();
     }
 
     static void daftarPengunjung15(String...namaPengunjung){
